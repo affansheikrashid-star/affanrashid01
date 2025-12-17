@@ -1,0 +1,407 @@
+ *body {
+                padding: auto;
+
+            } 
+
+            .nav-link {
+                display: flex;
+                text-align: center;
+                gap: 40px;
+                list-style: none;
+
+
+
+            }
+
+            .nav-bar {
+                text-decoration: none;
+                padding: 5px;
+                display: flex;
+                justify-content: space-between;
+
+            }
+
+            .nav-link li a {
+                text-decoration: none;
+                color: #000000;
+                font-family: Space Grotesk;
+                font-size: 20px;
+                margin-top: auto;
+
+
+
+
+
+            }
+
+
+
+
+            .maindiv {
+                flex-wrap: wrap;
+                display: flex;
+                justify-content: space-between;
+                padding: 20px;
+            }
+
+            .nav-bar h1 {
+                font-size: 35px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-style: italic;
+
+            }
+
+            .sec1 h1 {
+                font-family: monospace;
+
+            }
+
+            .sec1 {
+                padding: 60px;
+                font-size: x-large;
+                padding-left: 80px;
+            }
+
+            .sec2 {
+                padding-right: 80px;
+            }
+
+            .img {
+                display: flex;
+                gap: 40px;
+            }
+
+            .SERVICES {
+                display: flex;
+                gap: 30px;
+                padding: 50px;
+                margin-top: 20px;
+            }
+
+            .SERVICES h1 {
+                background-color: #B9FF66;
+
+            }
+
+            .PARA {
+                padding-top: 20px;
+                gap: 30px;
+            }
+
+            .button2 button {
+                color: #F3F3F3;
+                background-color: black;
+                height: 60px;
+                width: 264px;
+                border-radius: 10px;
+            }
+
+            .grid {
+                display: flex;
+                gap: 90px;
+                justify-content:center;
+            }
+            .grid2{
+                padding-top: 40px;
+                 display: flex;
+                 justify-content: center;
+                 gap: 90px;
+            }
+            .grid1{
+                padding-top: 40px;
+                 display: flex;
+                 justify-content: center;
+                 gap: 90px;
+            }.leftcard1{
+                border-radius: 35px;
+                border: 1px;
+                height: 200px;
+                background-color: #000000;
+                display: flex;
+                gap: 10px;
+
+            }.leftcard2{
+                border-radius: 35px;
+                border: 1px;
+                height: 200px;
+                background-color: #B9FF66;
+                display: flex;
+                gap: 10px;
+            }.text{
+                padding-top: 20px;
+                padding-left: 15px;
+                font-weight: 300;
+            }
+            .text1 h2{
+                padding-left: 30px;
+            }
+            .text3 h2{
+                background-color: #B9FF66;
+                border: 1px;
+                border-radius: 20px;
+            }.text4 h2{
+                border: 1px;
+                border-radius: 10px;
+            }
+            .para3{
+                color: aliceblue;
+                padding-top: 30px;
+                padding-left: 30px;
+            }
+            .text1{
+                color: #F3F3F3;
+            }
+            .text4 h2{
+                background-color: White;
+            }.rightcard3{
+                border-radius: 35px;
+                border: 1px;
+                height: 200px;
+                background-color:black;
+                display: flex;
+                gap: 10px;
+            }
+
+            .leftcard {
+                background-color: #F3F3F3;
+                display: flex;
+                border-radius: 35px;
+                border: 1px;
+                gap: 20px;
+                height: 210px;
+            }
+
+            .rightcard {
+                justify-content: space-between;
+                display: flex;
+                border: 1px;
+                border-radius: 45px;
+                gap: 30px;
+                background-color: #B9FF66;
+            }
+
+            .text2 h2 {
+                background-color: #B9FF66;
+                padding-left: 50px;
+                border: 1px;
+                border-radius: 22px;
+                font-weight: 500;
+                padding-left: 7px;
+                padding-right: 7px;
+
+            }.imag{
+                padding-top: 35px;
+                padding-left: 30px;
+            }
+            .imag2{
+                padding-top: 40px;
+                padding-left: 80px;
+            }.para2{
+                padding-top: 45px;
+                padding-left: 30px;
+            }.para1{
+                padding-top: 35px;
+                padding-left: 20px;
+
+            }.para{
+                padding-top: 45px;
+                padding-left: 20px
+            }.para3{
+                  padding-top: 45px;
+                padding-left: 20px
+            }
+        
+            
+            .rightcard2{
+                width: 410px;
+                background-color: #F3F3F3;
+                display: flex;
+                border-radius: 35px;
+                border: 1px;
+            }.leftcard1{
+                width: 410px;
+            }
+            .text2 h2{
+                padding-top: 20px;
+                padding-left: 30px;
+            }
+            
+
+            .maincard{
+                height: 350px;
+                width: 1240;
+                background-color: #F3F3F3;
+                border-radius: 45px;
+                padding-left: 100px;
+                padding-right: 100px;
+               padding-top: 20px;
+                gap: 275px;
+                display: flex;}
+                .cardbutton button{
+                    background-color: #000000;
+                    color:white;
+                    width: 280px;
+                    padding-top: 20px;
+                    padding-left: 35px;
+                    padding-right: 35px;
+                    padding-bottom: 20px;
+                    border-radius: 14px;
+                }.cardtext{
+                    padding-top: 35px;
+                }
+                .cardimg{ padding-right: 35px; }
+                .cardhead{
+                    display: flex;
+                    padding-top: 100px;
+                    padding-bottom: 20px;
+                    height: 70px;
+                }
+                .cardtext1 {
+                    background-color: #B9FF66;
+                    border-radius: 10px;
+                    border: 1px;
+                    height: 70px;
+
+                }
+                .cardp{
+                    padding-top: 10px;
+                    padding-left: 35px;
+                    
+                }.blackcard{
+                    border-radius: 35px;
+                    height: 200px;
+                    width: 1200px;
+                    padding-top: 35px;
+                    padding-left: 40px;
+                    display: flex;
+                    justify-content: center;
+                    background-color: black;
+                    
+                }.firstcard{
+                    color: #F3F3F3;
+                }
+                .secondcard{
+                    color: #F3F3F3;
+                }
+                .thirdcard{
+                    color: #F3F3F3;
+                }
+                .firstcard p{
+                    padding-right: 200px;
+                }
+                .secondcard p{
+                    padding-right: 200px;
+                }
+                .learn{
+                    padding-top: 85px;
+                    color: #B9FF66;
+                }
+                .our{
+                    display: flex;
+
+                }.p{
+                    padding-top: 35px;
+                    padding-left: 35px;
+                    
+                }.our h1{
+                    border-radius: 15px;
+                    background-color: #B9FF66;
+                }
+                .greenmain{
+                    padding-top: 75px;
+                    padding-left: 35px;
+                    flex-wrap: wrap;
+              }
+              .greencard{
+                background-color: #B9FF66;
+                height:180px;
+                border-radius: 10px;
+              }
+              .head{
+                padding-top: 5px;
+                padding-left: 10px;
+                font-size: x-large;
+                display: flex;
+              }
+              .p1{
+                padding-top: 30px;
+                padding-left: 33px;
+              }
+
+              .linediv{
+               padding-left: 20px;
+                background-color: #000000;
+                height: 1px;
+                width: 1190px;
+              }
+              .whitecard1{
+                margin-top: 30px;
+                margin-left: 33px;
+                 padding-top: 35px;
+                    padding-left: 35px;
+                    flex-wrap: wrap;
+                    height:130px;
+                border-radius: 10px;
+                background-color: #F3F3F3;
+              }
+              .whitecard2{
+                margin-top: 33px;
+                margin-left: 33px;
+                background-color: #F3F3F3;
+                 padding-top: 35px;
+                    padding-left: 35px;
+                    flex-wrap: wrap;
+                    height:100px;
+                border-radius: 20px;
+              }
+              .whitecard3{
+                margin-top: 33px;
+                margin-left: 33px;
+                background-color: #F3F3F3;
+                 padding-top: 35px;
+                    padding-left: 35px;
+                    flex-wrap: wrap;
+                    height:100px;
+                border-radius: 20px;
+              }
+              .whitecard4{
+                margin-top: 33px;
+                margin-left: 33px;
+                background-color: #F3F3F3;
+                 padding-top: 35px;
+                    padding-left: 35px;
+                    flex-wrap: wrap;
+                    height:100px;
+                border-radius: 20px;
+              }
+              .whitecard5{
+                margin-top: 33px;
+                margin-left: 33px;
+                background-color: #F3F3F3;
+                 padding-top: 35px;
+                    padding-left: 35px;
+                    flex-wrap: wrap;
+                    height:100px;
+                border-radius: 20px;
+              }
+
+              .whitecard{
+                
+                margin-top: 33px;
+                padding-left: 50px;
+                height: 180px;  
+                width: 1000px;            
+                background-color:#F3F3F3;
+                padding-top: 35px;
+                border-radius: 10px;
+              }
+              .mainwhite{
+                flex-wrap: wrap;
+              }
+
+
+
+
+
+                
+        
