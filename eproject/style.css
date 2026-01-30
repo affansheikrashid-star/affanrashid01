@@ -1,0 +1,391 @@
+
+
+.mainnav{
+    border-radius: 15px;
+    height: 100px;
+    width: auto;
+    background-color: rgb(65, 49, 49);
+
+}
+.mainnav h1{
+    color: aliceblue;
+    
+}
+.mainnav h3{
+    color: antiquewhite;
+    
+    
+}
+.navbar{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+}
+.firstnav ul{
+    font-weight: 100;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.firstnav ul li a{
+    color: grey;
+    text-decoration: none;
+}
+.firstnav a:hover{
+    color: rgb(152, 13, 13);
+}
+
+.secondnav img{
+    
+    padding-left: 100px;
+    height: 140px;
+    width: auto;
+}
+.thirdnav ul{
+    margin-left: 240px;
+    font-size: 20px;
+    list-style: none;
+   gap: 30px;
+    display: flex;
+}
+.thirdnav a{
+    text-decoration: none;
+    list-style: none;
+}
+.imagediv img{
+    margin-left: 160px;
+    margin-top: 0px;
+    height: 350px;
+    width: auto;
+}
+.maindiv{
+   display: flex;
+}
+.textdiv p {
+    padding-top: 20px;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 60px;
+}
+
+.maincard{ 
+    gap: 50px;
+    display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 45px;
+
+}
+.maincard2{
+    display: flex;
+    gap: 50px;
+     margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 45px;
+    margin-bottom: 50px;
+}
+.product-card{
+   
+    width: 400px;
+    padding-bottom: 30px;
+    border-radius: 25px;
+    margin-top: 27px;
+    }
+    .product-card h2{
+        padding-left: 20px;
+    }
+    .p h4{
+        margin-left: 10px;
+    }
+    .p h3{
+        padding-left: 10px;
+    }
+    .mainbutton{
+        padding-top: 20px;
+        display: flex;
+        gap: 40px;
+    }
+    
+    .button1{ 
+        padding-left: 20px;
+        padding-top: 30px;
+    }
+
+
+    .button1 a{
+        text-decoration: none;
+        list-style: none;
+    }
+    .button2 a{
+        text-decoration: none;
+        list-style: none;
+    }
+    .button2{
+        padding-left: 10px;
+        padding-top: 30px;
+    }
+    .button2 button{
+        font-family: fantasy;
+        border-radius: 35px;
+        
+        height: 50px;
+        width: 120px;
+    }
+    
+    .button1 button{
+        font-family: fantasy;
+        border-radius: 35px;
+        height: 50px;
+        width: 120px;
+    }
+
+   
+
+    .button1 button:hover {
+        cursor: pointer;
+        transition: background-color 0.9s ease;
+        background-color: darkgray;
+        
+    }
+    .button2 button:hover{
+        cursor: pointer;
+        transition: background-color 0.9s ease;
+        background-color:  darkgray;
+    }
+
+   .colors{
+    padding-left: 10px;
+    display: flex;
+    gap: 10px;
+   }
+.color {
+    margin-left: 10px;
+    margin-top: 10px;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 1.5px solid #000;
+  cursor: pointer;
+}
+.black{ background-color: #000;
+
+}
+.grey{
+
+    background-color: #5a2d0c;
+}
+.brown{
+    background: linear-gradient(135deg, #5a2d0c 50%, #f3e3c3 50%);
+}
+.white{
+   background-color: rgb(252, 252, 251);
+}
+
+.product-card img{
+    
+    
+    height: 360px;
+    width: 350px;
+}
+.product-card h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+}
+.product-card h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.product-card{
+     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+.slider img{
+    padding-top: 80px;
+    margin-left: 10px;
+}
+
+.bigdiv{
+  display: flex;
+  align-items: center;
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 20px;
+  
+}
+
+.leftdiv-img{
+  width: 1000px;
+
+}
+
+.leftdiv-img img{
+  width: 100%;
+  border-radius: 3px;
+}
+
+.rightdiv-text{
+  width: 50%;
+  height: 330px;
+  padding: 40px;
+  background-color: #ddd;
+  
+
+}
+
+.rightdiv-text h1{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.rightdiv-text p{
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+.rightdiv-text button{
+  padding: 12px 25px;
+  border: 1px solid black;
+  background: transparent;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.rightdiv-text button:hover{
+    background-color: rgb(29, 119, 131);
+    color: white;
+    
+    
+}
+
+
+
+
+.imgvisa img {
+    padding-left: 300px;
+
+}
+
+.num a {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.socialicons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 450px;
+}
+
+.socialicons a {
+    text-decoration: none;
+
+    border-radius: 6px;
+    font-size: 22px;
+    color: aliceblue;
+    font-weight: 900;
+    height: 30px;
+    width: 50px;
+    justify-content: center;
+    display: flex;
+}
+
+.copyright {
+    font-weight: 700;
+    padding-left: 5px;
+    padding-top: 20px;
+}
+
+.copyright a {
+    text-decoration: none;
+    color: crimson;
+}
+
+.copyrightmain {
+    padding-top: 30px;
+    padding-left: 60px;
+    display: flex;
+}
+
+.copyrightmain h4 {
+    color: aliceblue;
+
+}
+
+body {
+    margin: 0%;
+}
+
+.imgnav img {
+
+    height: 200px;
+    width: auto;
+    margin-left: 40px;
+    padding-top: 30px;
+    margin-top: 80px;
+    
+
+}
+
+.mainnav {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    
+}
+
+.centernav ul {
+    display: flex;
+    gap: 50px;
+    padding-left: 200px;
+}
+
+.centernav a {
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.right h4 {
+    color: aliceblue;
+    padding-left: 190px;
+    padding-top: 50px;
+
+}
+
+.num h5 {
+    color: aliceblue;
+    padding-left: 190px;
+
+}
+
+.h3 {
+    border: 1px;
+    border-radius: 35px;
+    padding-left: 110px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.secondmain {
+    margin-top: -30px;
+    height: 170px;
+    background-color: black;
+}
+
+.secondmain h3 {
+
+    padding-right: 40px;
+    font-style: italic;
+}
+
+.h3 h3 {
+
+    border-radius: 705px;
+    box-shadow: 0 4px 10px rgba(188, 149, 149, 0.852);
+}
+
+
+
+
+
